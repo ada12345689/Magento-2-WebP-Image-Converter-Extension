@@ -16,11 +16,11 @@ By enabling this extension, the admin can compress all the images from the homep
 
 The admin can make their website more user-friendly by installing [Magento 2 WebP Image Converter](https://magecomp.com/magento-2-webp-image-converter.html) and converting images of product pages, category pages, and CMS pages.
 
-What are the benefits of MageComp’s Magento 2 WebP Image Converter?
+## What are the benefits of MageComp’s Magento 2 WebP Image Converter?
 
-Boost store performance by converting images to WebP images.
-This extension can customize the image quality from the backend configuration.
-By disabling the extension, the admin can delete all WebP images.
-There is no need for manual work to convert JPEG, PNG, or GIF into WebP images.
-This extension provides a fast-loading page & offers better UI.
-WebP images boost the store’s SEO performance.
+- Boost store performance by converting images to WebP images.
+- This extension can customize the image quality from the backend configuration.
+- By disabling the extension, the admin can delete all WebP images.
+- There is no need for manual work to convert JPEG, PNG, or GIF into WebP images.
+- This extension provides a fast-loading page & offers better UI.
+- WebP images boost the store’s SEO performance.
